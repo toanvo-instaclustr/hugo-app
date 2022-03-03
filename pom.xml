@@ -6,7 +6,7 @@
 
   <groupId>com.hugo.app</groupId>
   <artifactId>hugo-app</artifactId>
-  <version>1.19</version>
+  <version>1.20-SNAPSHOT</version>
 
   <name>hugo-app</name>
   <url>http://www.hugo.com</url>
